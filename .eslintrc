@@ -55,11 +55,11 @@
       "error",
       {
         "devDependencies": [
-          "**/*.test.js",
-          "**/*.test.jsx",
+          // "**/*.test.js",
+          // "**/*.test.jsx",
           "**/*.test.ts",
-          "**/*.test.tsx",
-          "src/tests/**/*"
+          "**/*.test.tsx"
+          // "src/tests/**/*"
         ]
       }
     ],
